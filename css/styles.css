@@ -1,0 +1,154 @@
+
+
+
+#title{
+    background-color: #FFF3FA;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#about{
+    background-color: #FFF3FA;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.title-header{
+    color: black;
+    font-family: 'Lobster', cursive;
+
+}
+.navbar{
+    padding-bottom: 0rem;
+}
+.navbar-nav {
+    flex: 1;
+    justify-content: center;
+}
+.container-fluid{
+
+    padding: 3% 15% 7%;
+
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+
+
+
+}
+.kidsglamimage{
+    width: 500px;
+    height: 500px;
+}
+
+.nav-item{
+    padding: 0 18px;
+    font-family: 'Lobster', cursive;
+
+}
+
+.nav-link{
+
+    font-size: 1.2rem;
+}
+
+.test{
+    padding: 5%;
+    line-height: 5;
+    text-align: center;
+}
+
+.carousel-item{
+    padding:7% 15%;
+
+
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 50px;
+  width: 50px;
+  outline: hotpink;
+  border: 5px solid hotpink;
+}
+
+
+.card{
+    text-align: center;
+
+}
+
+
+
+#inventory-title{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+#card-cards{
+    background-color: blue;
+}
+
+/*contact page*/
+#contact-title{
+
+    background-color: #FFF3FA;
+    color: black;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+
+}
+
+.morty-portrait{
+    background-color: white;
+    border-radius: 100%;
+}
+
+
+.form-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.form-group textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+.form-group button {
+    width: 100%;
+    padding: 10px;
+    background-color: hotpink;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.form-group button:hover {
+    background-color: gray;
+}
